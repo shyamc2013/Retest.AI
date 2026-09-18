@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(.venv/Scripts/python.exe -c \"import ast; [ast.parse\\(open\\(f, encoding='utf-8'\\).read\\(\\)\\) for f in ['question_generator.py','groq_client.py','config.py']]; print\\('OK'\\)\")",
-      "Bash(.venv/Scripts/python.exe -c ' *)"
-    ]
-  }
-}
